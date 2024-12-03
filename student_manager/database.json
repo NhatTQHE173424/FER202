@@ -1,0 +1,153 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "code": "S001",
+            "fullName": "Nguyen Van A",
+            "major": "Computer Science",
+            "cpa": 3.6,
+            "image": "student1.png"
+        },
+        {
+            "id": 2,
+            "code": "S002",
+            "fullName": "Tran Thi B",
+            "major": "Information Technology",
+            "cpa": 3.8,
+            "image": "student2.png"
+        },
+        {
+            "id": 3,
+            "code": "S003",
+            "fullName": "Le Van C",
+            "major": "Business Administration",
+            "cpa": 3.2,
+            "image": "student3.png"
+        },
+        {
+            "id": 4,
+            "code": "S004",
+            "fullName": "Pham Thi D",
+            "major": "Computer Science",
+            "cpa": 3.1,
+            "image": "student4.png"
+        },
+        {
+            "id": 5,
+            "code": "S005",
+            "fullName": "Nguyen Van E",
+            "major": "Mechanical Engineering",
+            "cpa": 2.9,
+            "image": "student5.png"
+        }
+    ],
+    "student_details": [
+        {
+            "id": 1,
+            "studentCode": "S001",
+            "subjects": [
+                "CS101",
+                "CS102",
+                "MATH201"
+            ]
+        },
+        {
+            "id": 2,
+            "studentCode": "S002",
+            "subjects": [
+                "IT101",
+                "IT202",
+                "MATH201"
+            ]
+        },
+        {
+            "id": 3,
+            "studentCode": "S003",
+            "subjects": [
+                "BA101",
+                "BA201",
+                "ECO101"
+            ]
+        },
+        {
+            "id": 4,
+            "studentCode": "S004",
+            "subjects": [
+                "CS101",
+                "CS202",
+                "MATH201"
+            ]
+        },
+        {
+            "id": 5,
+            "studentCode": "S005",
+            "subjects": [
+                "ME101",
+                "PHY101",
+                "MATH101"
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "id": 1,
+            "subjectCode": "CS101",
+            "subjectName": "Introduction to Computer Science"
+        },
+        {
+            "id": 2,
+            "subjectCode": "CS102",
+            "subjectName": "Data Structures"
+        },
+        {
+            "id": 3,
+            "subjectCode": "CS202",
+            "subjectName": "Algorithms"
+        },
+        {
+            "id": 4,
+            "subjectCode": "MATH201",
+            "subjectName": "Calculus II"
+        },
+        {
+            "id": 5,
+            "subjectCode": "IT101",
+            "subjectName": "Introduction to Information Technology"
+        },
+        {
+            "id": 6,
+            "subjectCode": "IT202",
+            "subjectName": "Networking Fundamentals"
+        },
+        {
+            "id": 7,
+            "subjectCode": "BA101",
+            "subjectName": "Principles of Business Administration"
+        },
+        {
+            "id": 8,
+            "subjectCode": "BA201",
+            "subjectName": "Marketing Management"
+        },
+        {
+            "id": 9,
+            "subjectCode": "ECO101",
+            "subjectName": "Microeconomics"
+        },
+        {
+            "id": 10,
+            "subjectCode": "ME101",
+            "subjectName": "Introduction to Mechanical Engineering"
+        },
+        {
+            "id": 11,
+            "subjectCode": "PHY101",
+            "subjectName": "Physics I"
+        },
+        {
+            "id": 12,
+            "subjectCode": "MATH101",
+            "subjectName": "Basic Mathematics"
+        }
+    ]
+}
